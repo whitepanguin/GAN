@@ -1,0 +1,5 @@
+# CPU 전용 PyTorch 설치
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+# pip install tqdm
+# pip install matplotlib
+

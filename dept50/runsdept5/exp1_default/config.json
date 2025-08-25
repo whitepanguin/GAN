@@ -1,0 +1,19 @@
+{
+  "name": "exp1_default",
+  "img_size": 128,
+  "batch_size": 64,
+  "z_dim": 128,
+  "g_ch": 64,
+  "d_ch": 64,
+  "lr_g": 0.0002,
+  "lr_d": 0.0001,
+  "betas": [
+    0.5,
+    0.999
+  ],
+  "epochs": 500,
+  "extra_epochs": 0,
+  "sample_batch_every": 50,
+  "n_samples": 64,
+  "resume": true
+}
